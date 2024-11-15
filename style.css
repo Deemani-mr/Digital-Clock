@@ -1,0 +1,12 @@
+#clock{
+    
+    color: aqua;
+    font-size: 80px;
+}
+body{
+    background-color: rgb(8, 8, 8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
